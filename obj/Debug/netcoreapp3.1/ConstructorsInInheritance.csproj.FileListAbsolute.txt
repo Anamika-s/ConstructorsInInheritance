@@ -1,0 +1,13 @@
+C:\Users\adminvm.adminvm\source\repos\ConstructorsInInheritance\ConstructorsInInheritance\bin\Debug\netcoreapp3.1\ConstructorsInInheritance.exe
+C:\Users\adminvm.adminvm\source\repos\ConstructorsInInheritance\ConstructorsInInheritance\bin\Debug\netcoreapp3.1\ConstructorsInInheritance.deps.json
+C:\Users\adminvm.adminvm\source\repos\ConstructorsInInheritance\ConstructorsInInheritance\bin\Debug\netcoreapp3.1\ConstructorsInInheritance.runtimeconfig.json
+C:\Users\adminvm.adminvm\source\repos\ConstructorsInInheritance\ConstructorsInInheritance\bin\Debug\netcoreapp3.1\ConstructorsInInheritance.runtimeconfig.dev.json
+C:\Users\adminvm.adminvm\source\repos\ConstructorsInInheritance\ConstructorsInInheritance\bin\Debug\netcoreapp3.1\ConstructorsInInheritance.dll
+C:\Users\adminvm.adminvm\source\repos\ConstructorsInInheritance\ConstructorsInInheritance\bin\Debug\netcoreapp3.1\ConstructorsInInheritance.pdb
+C:\Users\adminvm.adminvm\source\repos\ConstructorsInInheritance\ConstructorsInInheritance\obj\Debug\netcoreapp3.1\ConstructorsInInheritance.csprojAssemblyReference.cache
+C:\Users\adminvm.adminvm\source\repos\ConstructorsInInheritance\ConstructorsInInheritance\obj\Debug\netcoreapp3.1\ConstructorsInInheritance.AssemblyInfoInputs.cache
+C:\Users\adminvm.adminvm\source\repos\ConstructorsInInheritance\ConstructorsInInheritance\obj\Debug\netcoreapp3.1\ConstructorsInInheritance.AssemblyInfo.cs
+C:\Users\adminvm.adminvm\source\repos\ConstructorsInInheritance\ConstructorsInInheritance\obj\Debug\netcoreapp3.1\ConstructorsInInheritance.csproj.CoreCompileInputs.cache
+C:\Users\adminvm.adminvm\source\repos\ConstructorsInInheritance\ConstructorsInInheritance\obj\Debug\netcoreapp3.1\ConstructorsInInheritance.dll
+C:\Users\adminvm.adminvm\source\repos\ConstructorsInInheritance\ConstructorsInInheritance\obj\Debug\netcoreapp3.1\ConstructorsInInheritance.pdb
+C:\Users\adminvm.adminvm\source\repos\ConstructorsInInheritance\ConstructorsInInheritance\obj\Debug\netcoreapp3.1\ConstructorsInInheritance.genruntimeconfig.cache
